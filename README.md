@@ -26,7 +26,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 *   Python 3.7+
 *   Libraries (see Installation)
-*   NLTK/SpaCy resources (see Data)
+*   NLTK resources (see Data)
 *   CUDA enabled GPU (Recommended for training and faster prediction, though CPU is possible)
 
 ### Installation
