@@ -4,6 +4,8 @@ A project implementing and comparing different deep learning models (RNN, LSTM, 
 
 ## Usage
 
+https://github.com/user-attachments/assets/efb1afcf-9b95-43c9-8f89-611ec81f6bdf
+
 
 ## Features
 
